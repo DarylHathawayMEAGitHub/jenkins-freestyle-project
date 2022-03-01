@@ -39,4 +39,4 @@ jobs:
         run: ls -la
         
       - name: Run script.h
-        run: ./script.sh
+        run: bash ./script.sh
